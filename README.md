@@ -1,3 +1,3 @@
-# My Content Module
+# The Aperment Group Compendium
 
-A template for creating your own Foundry VTT content module.
+A compendium of foundry tools and resources for the Aperment Group.
