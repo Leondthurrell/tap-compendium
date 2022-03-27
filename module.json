@@ -79,5 +79,5 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/Leondthurrell/tap-compendium/main/module.json",
-    "download": ""
+    "download": "https://github.com/Leondthurrell/tap-compendium/archive/master.zip"
   }
