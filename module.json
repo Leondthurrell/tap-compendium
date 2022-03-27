@@ -78,6 +78,6 @@
             "type": "Playlist"
         }
     ],
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/Leondthurrell/tap-compendium/main/module.json",
     "download": ""
   }
